@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "nombre": "Notebook Lenovo",
+    "precio": 1200,
+    "categoria": "tecnologia",
+    "descripcion": "Notebook Ryzen 5, 8GB RAM y SSD",
+    "imagen": "assets/tecnologia/notebook.webp"
+  },
+  {
+    "id": 2,
+    "nombre": "Mouse Logitech",
+    "precio": 25,
+    "categoria": "tecnologia",
+    "descripcion": "Mouse inalámbrico óptico ergonómico",
+    "imagen": "assets/tecnologia/mouse.webp"
+  },
+  {
+    "id": 3,
+    "nombre": "Teclado Redragon",
+    "precio": 80,
+    "categoria": "tecnologia",
+    "descripcion": "Teclado mecánico RGB para gamers",
+    "imagen": "assets/tecnologia/teclado.webp"
+  },
+  {
+    "id": 4,
+    "nombre": "Monitor Samsung 24\"",
+    "precio": 180,
+    "categoria": "tecnologia",
+    "descripcion": "Monitor Full HD con panel IPS",
+    "imagen": "assets/tecnologia/monitor.webp"
+  },
+  {
+    "id": 5,
+    "nombre": "Auriculares JBL",
+    "precio": 60,
+    "categoria": "tecnologia",
+    "descripcion": "Sonido envolvente y micrófono integrado",
+    "imagen": "assets/tecnologia/auriculares.webp"
+  },
+  {
+    "id": 6,
+    "nombre": "Smartphone Xiaomi",
+    "precio": 450,
+    "categoria": "tecnologia",
+    "descripcion": "64MP, 6GB RAM, batería 5000mAh",
+    "imagen": "assets/tecnologia/smartphone.webp"
+  },
+  {
+    "id": 7,
+    "nombre": "Smartwatch Amazfit",
+    "precio": 120,
+    "categoria": "tecnologia",
+    "descripcion": "Control de salud y notificaciones",
+    "imagen": "assets/tecnologia/smartwatch.webp"
+  },
+  {
+    "id": 8,
+    "nombre": "Tablet Samsung",
+    "precio": 300,
+    "categoria": "tecnologia",
+    "descripcion": "Pantalla de 10\" y 64GB almacenamiento",
+    "imagen": "assets/tecnologia/tablet.webp"
+  },
+  {
+    "id": 9,
+    "nombre": "Cámara Web Logitech",
+    "precio": 95,
+    "categoria": "tecnologia",
+    "descripcion": "Full HD, enfoque automático",
+    "imagen": "assets/tecnologia/webcam.webp"
+  },
+  {
+    "id": 10,
+    "nombre": "Disco Externo 1TB",
+    "precio": 100,
+    "categoria": "tecnologia",
+    "descripcion": "USB 3.0, portátil y liviano",
+    "imagen": "assets/tecnologia/disco.webp"
+  },
+  {
+    "id": 11,
+    "nombre": "Parlante Bluetooth",
+    "precio": 70,
+    "categoria": "tecnologia",
+    "descripcion": "Sonido potente con batería recargable",
+    "imagen": "assets/tecnologia/parlante.webp"
+  },
+  {
+    "id": 12,
+    "nombre": "Router TP-Link",
+    "precio": 40,
+    "categoria": "tecnologia",
+    "descripcion": "Alta velocidad y doble banda",
+    "imagen": "assets/tecnologia/router.webp"
+  },
+  {
+    "id": 13,
+    "nombre": "Pendrive 64GB",
+    "precio": 15,
+    "categoria": "tecnologia",
+    "descripcion": "USB 3.1 de alta velocidad",
+    "imagen": "assets/tecnologia/pendrive.webp"
+  },
+  {
+    "id": 14,
+    "nombre": "Cargador USB-C",
+    "precio": 20,
+    "categoria": "tecnologia",
+    "descripcion": "Carga rápida 25W",
+    "imagen": "assets/tecnologia/cargador.webp"
+  },
+  {
+    "id": 15,
+    "nombre": "Soporte para notebook",
+    "precio": 35,
+    "categoria": "tecnologia",
+    "descripcion": "Ajustable y antideslizante",
+    "imagen": "assets/tecnologia/soporte.webp"
+  },
+  {
+    "id": 16,
+    "nombre": "Cooler para laptop",
+    "precio": 30,
+    "categoria": "tecnologia",
+    "descripcion": "Ventilación doble y luz LED",
+    "imagen": "assets/tecnologia/cooler.webp"
+  },
+  {
+    "id": 17,
+    "nombre": "Tarjeta gráfica NVIDIA",
+    "precio": 500,
+    "categoria": "tecnologia",
+    "descripcion": "RTX 3060, 12GB GDDR6",
+    "imagen": "assets/tecnologia/tarjeta.webp"
+  },
+  {
+    "id": 18,
+    "nombre": "Placa madre ASUS",
+    "precio": 150,
+    "categoria": "tecnologia",
+    "descripcion": "ATX, soporte para Ryzen 5000",
+    "imagen": "assets/tecnologia/placamadre.webp"
+  }
+]

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tienda de Tecnología</title>
+    <link rel="stylesheet" href="styles/main.css" />
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="js/main.js" defer></script>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#tecnologia">Catálogo</a></li>
+          <li>
+            <a href="#carrito"
+              >Carrito (<span id="contador-carrito">0</span>)</a
+            >
+          </li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <section id="tecnologia">
+        <h2>Simulador de compras de productos tecnológicos</h2>
+        <div class="rejilla-productos" id="contenedor-productos"></div>
+      </section>
+
+      <section id="carrito">
+        <h2>Carrito de Compras</h2>
+        <div id="contenedor-carrito"></div>
+      </section>
+    </main>
+  </body>
+</html>

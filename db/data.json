@@ -5,7 +5,7 @@
     "precio": 1200,
     "categoria": "tecnologia",
     "descripcion": "Notebook Ryzen 5, 8GB RAM y SSD",
-    "imagen": "Proyecto-JS-Edward-Guerrero-CoderHouse/assets/tecnologia/notebook.webp"
+    "imagen": "assets/tecnologia/notebook.webp"
   },
   {
     "id": 2,
